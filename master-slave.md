@@ -251,7 +251,7 @@ podman ps
  
  ```
 
-## Step3 Setting slave postgresql and testing the status.
+## Step3: Setting slave postgresql and testing the status.
 
  ```
  
