@@ -201,7 +201,7 @@ echo "Containers are up and running!"
 
 
 
-## Setting of master postgresql confiregure.
+## Step2 : Setting of master postgresql confiregure.
 
  ```
  
@@ -251,7 +251,7 @@ podman ps
  
  ```
 
-# Setting slave postgresql and testing the status.
+## Step3 Setting slave postgresql and testing the status.
 
  ```
  
